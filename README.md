@@ -8,4 +8,4 @@ Some interesting plots are below with more detail found in the submission (`P4.p
 
 ![Animated net flow and degree distribution](https://i.imgur.com/XpFaj8c.gif)
 
-![Louvain Community structure over all time][structure_map.png]
+![Louvain Community structure over all time](./structure_map.png)
