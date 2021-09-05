@@ -4,8 +4,8 @@ Part of the project focused on analyzing Taxi data from NYC found [here](https:/
 
 Some interesting plots are below with more detail found in the submission (`P4.pdf`).
 
-![Animated community structure using the Louvain algorithm](https://i.imgur.com/7RQJZTn.gif)
+[Animated community structure using the Louvain algorithm](https://i.imgur.com/7RQJZTn.gif)
 
-![Animated net flow and degree distribution](https://i.imgur.com/XpFaj8c.gif)
+[Animated net flow and degree distribution](https://i.imgur.com/XpFaj8c.gif)
 
 ![Louvain Community structure over all time](./structure_map.png)
